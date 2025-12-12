@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRvbG51ZzFsaXl2eXp5eTY1cG82YzhsdTh3bmtvMW5hN25tOHl1YSZlcD12aXN1YWxzX3JlY2tlciZjdD1z/NDQd0VbB61f224O1u/giphy.gif" width="100"/>
-  <h1>[Eduardo ou Duwrdo] | Estudante com Foco em Desenvolvimento Back-end</h1>
+
+  <h1>Estudante com Foco em Desenvolvimento Back-end</h1>
 </div>
 
 ---
